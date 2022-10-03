@@ -1,2 +1,1 @@
-# Client-Programming-UE4-Portpolio
-클라이언트( 언리얼엔진4 기반 ) 포트폴리오
+포트폴리오 설명 pdf 파일 링크입니다 : https://drive.google.com/file/d/1X2lSEZ5m8avEAP6UqZOcqEOewFTsTzhV/view
